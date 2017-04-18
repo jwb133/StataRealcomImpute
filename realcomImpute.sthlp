@@ -98,8 +98,9 @@ appropriate dummy variables for the different levels and pass these dummy variab
 	
 {title:Author}
 
-    Jonathan Bartlett, London School of Hygiene & Tropical Medicine, UK
-    jonathan.bartlett@lshtm.ac.uk
+    Jonathan Bartlett
+	jwb133@googlemail.com
+	www.thestatsgeek.com
 	www.missingdata.org.uk
 
 {title:Also see}

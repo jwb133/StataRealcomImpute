@@ -1,5 +1,6 @@
-*realcomImpute Jonathan Bartlett jonathan.bartlett@lshtm.ac.uk
-*28th July 2010
+*realcomImpute Jonathan Bartlett jwb133@googlemail.com
+*created 28th July 2010
+*email contact updated 18th April 2017
 program define realcomImpute
 version 11.1
 syntax anything using/, [replace] NUMRESPonses(integer) cons(varname) level2id(varname) [level1wgt(varname)] [level2wgt(varname)]

@@ -49,8 +49,9 @@ variables but with zero imputed values.
 
 {title:Author}
 
-    Jonathan Bartlett, London School of Hygiene & Tropical Medicine, UK
-    jonathan.bartlett@lshtm.ac.uk
+    Jonathan Bartlett
+    jwb133@googlemail.com
+	www.thestatsgeek.com
 	www.missingdata.org.uk
 
 {title:Also see}

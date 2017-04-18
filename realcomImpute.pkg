@@ -1,10 +1,11 @@
 v 3
 d realcomImpute. Export data to Realcom Impute for multiple imputation and load imputed datasets
-d Jonathan Bartlett, London School of Hygiene & Tropical Medicine.
-d jonathan.bartlett@lshtm.ac.uk
+d Jonathan Bartlett
+d jwb133@googlemail.com
+d www.thestatsgeek.com
 d www.missingdata.org.uk
 d
-d Distribution-Date: 20110921
+d Distribution-Date: 20170418
 
 * I can also insert comments; these will not be displayed.
 * f lines name the files that comprise your package:

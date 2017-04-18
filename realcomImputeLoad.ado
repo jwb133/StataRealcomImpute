@@ -1,6 +1,7 @@
-*realcomImputeLoad Jonathan Bartlett jonathan.bartlett@lshtm.ac.uk
+*realcomImputeLoad Jonathan Bartlett jwb133@googlemail.com
 *21st September 2011
 *bug fixed when number of responses exceeds number of imputations
+*18th April 2017 - contact information updated
 program define realcomImputeLoad
 version 11.1
 syntax
